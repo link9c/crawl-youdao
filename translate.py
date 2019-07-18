@@ -1,4 +1,5 @@
 '''
+
 有道翻译反反爬虫
 2019 07/18更新salt，bv规则
 sign: md5("fanyideskweb" + e + i + "n%A-rKaT5fb[Gy?;N5@Tj")
