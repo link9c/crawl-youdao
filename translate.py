@@ -1,5 +1,8 @@
 '''
+<<<<<<< HEAD
 
+=======
+>>>>>>> 070715107d9a531f2db870837ddcf8327a47f756
 有道翻译反反爬虫
 2019 07/18更新salt，bv规则
 sign: md5("fanyideskweb" + e + i + "n%A-rKaT5fb[Gy?;N5@Tj")
